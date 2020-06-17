@@ -1,0 +1,13 @@
+C:\repos\C#notes\CsharpTypesSolution\CsharpTypes\bin\Debug\netcoreapp3.1\CsharpTypes.exe
+C:\repos\C#notes\CsharpTypesSolution\CsharpTypes\bin\Debug\netcoreapp3.1\CsharpTypes.deps.json
+C:\repos\C#notes\CsharpTypesSolution\CsharpTypes\bin\Debug\netcoreapp3.1\CsharpTypes.runtimeconfig.json
+C:\repos\C#notes\CsharpTypesSolution\CsharpTypes\bin\Debug\netcoreapp3.1\CsharpTypes.runtimeconfig.dev.json
+C:\repos\C#notes\CsharpTypesSolution\CsharpTypes\bin\Debug\netcoreapp3.1\CsharpTypes.dll
+C:\repos\C#notes\CsharpTypesSolution\CsharpTypes\bin\Debug\netcoreapp3.1\CsharpTypes.pdb
+C:\repos\C#notes\CsharpTypesSolution\CsharpTypes\obj\Debug\netcoreapp3.1\CsharpTypes.csprojAssemblyReference.cache
+C:\repos\C#notes\CsharpTypesSolution\CsharpTypes\obj\Debug\netcoreapp3.1\CsharpTypes.AssemblyInfoInputs.cache
+C:\repos\C#notes\CsharpTypesSolution\CsharpTypes\obj\Debug\netcoreapp3.1\CsharpTypes.AssemblyInfo.cs
+C:\repos\C#notes\CsharpTypesSolution\CsharpTypes\obj\Debug\netcoreapp3.1\CsharpTypes.csproj.CoreCompileInputs.cache
+C:\repos\C#notes\CsharpTypesSolution\CsharpTypes\obj\Debug\netcoreapp3.1\CsharpTypes.dll
+C:\repos\C#notes\CsharpTypesSolution\CsharpTypes\obj\Debug\netcoreapp3.1\CsharpTypes.pdb
+C:\repos\C#notes\CsharpTypesSolution\CsharpTypes\obj\Debug\netcoreapp3.1\CsharpTypes.genruntimeconfig.cache
